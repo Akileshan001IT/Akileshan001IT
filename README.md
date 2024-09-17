@@ -8,7 +8,7 @@
 📫 How to reach me :
 <br />
 <br />
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1yUUGEaBM0-SLiwd32n0xZ0qqnEW7kU0_?usp=share_link)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1OqN1h2vFyuZZnZzapKKECDF_mwEPqHHo/view?usp=drive_link)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Akileshan001IT)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ravindranakileshan001it)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vr.akilesh0001@gmail.com)
