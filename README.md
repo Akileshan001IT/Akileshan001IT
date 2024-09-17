@@ -7,7 +7,7 @@
 
 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ravindranakileshan001it)
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](vr.akilesh001it@gmail.com)
+<br /> [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vr.akilesh0001@gmail.com)
 
 ⚡I can speak
 - Tamil
